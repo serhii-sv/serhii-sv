@@ -19,33 +19,30 @@
 </p>
 <p align="center">
     <a href="#">
-        <img src="https://skillicons.dev/icons?i=alpinejs,aws,azure,babel,bash,bitbucket,bootstrap,cloudflare,css,docker,figma,firebase,git,github,gitlab,gulp,heroku,html,htmx,ai,instagram,js,jquery,kubernetes,laravel,less,linkedin,mysql,nextjs,nginx,npm,nuxtjs,php,pinia,postgres,postman,redis,ts,vite,vue,vuetify,webpack,yarn " />
+        <img src="https://skillicons.dev/icons?i=alpinejs,aws,azure,babel,bash,bitbucket,bootstrap,cloudflare,css,docker,figma,firebase,git,github,gitlab,gulp,heroku,html,htmx,ai,instagram,js,jquery,kubernetes,less,linkedin,mysql,nextjs,nginx,npm,nuxtjs,php,pinia,postgres,postman,redis,ts,vuetify,webpack,yarn " />
     </a>
 </p>
 
 <br>
 <h3 align='center'>Connect with me:</h3>
 <p align='center' style='margin: 16px 4px 8px;'>
-        <a href="https://twitter.com" target="blank" rel="noreferrer">
-            <img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="https://twitter.com" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-        </a>
         <a href="mailto:" target="blank" rel="noreferrer">
-            <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="mailto:" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+            <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="mailto:" height="50" width="50" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
         </a>
         <a href="https://linkedin.com" target="blank" rel="noreferrer">
-            <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="https://linkedin.com" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+            <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="https://linkedin.com" height="50" width="50" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
         </a>
         <a href="https://fb.com" target="blank" rel="noreferrer">
-            <img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="https://fb.com" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+            <img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="https://fb.com" height="50" width="50" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
         </a>
         <a href="https://instagram.com" target="blank" rel="noreferrer">
-            <img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="https://instagram.com" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+            <img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="https://instagram.com" height="50" width="50" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
         </a>
         <a href="https://www.youtube.com" target="blank" rel="noreferrer">
-            <img align="center" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="https://www.youtube.com" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+            <img align="center" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="https://www.youtube.com" height="50" width="50" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
         </a>
         <a href="https://www.leetcode.com" target="blank" rel="noreferrer">
-            <img align="center" src="https://assets.leetcode.com/static_assets/public/icons/favicon-16x16.png" alt="https://www.leetcode.com" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+            <img align="center" src="https://assets.leetcode.com/static_assets/public/icons/favicon-16x16.png" alt="https://www.leetcode.com" height="50" width="50" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
         </a>
 </p>
 
