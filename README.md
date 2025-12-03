@@ -1,51 +1,64 @@
-<img align="center" src="https://raw.githubusercontent.com/serhii-sv/serhii-sv/main/h1.png" alt="" /></div>
+I’m a Senior AI Architect and Founder of NewGen, leading a team of 20+ senior engineers.
+I don’t “write code for tasks” — I design and ship AI-first systems that actually move businesses forward.
 
-<p align='center' style='margin: 16px 4px 8px;'>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Welcome+to+my+GitHub+Profile" alt="Welcome to my GitHub Profile." />
-</p>
+If you need someone to plug LLMs into your product properly, build automation pipelines, fix messy architecture, or take ownership of a SaaS platform — that’s what I do.
 
-<h1 align="center" style='margin: 32px 4px 8px; font-size: 24px;'>I'm Serhii Voronovych</h3>
-<h3 align="center">I have extensive experience in developing applications of varying complexity, from simple to complex, as well as working with different architectural approaches.</h4>
-<p align="center" style='margin: 16px 4px 32px;'>
-        <a href="https://laravel.com" target="_blank" rel="noreferrer">
-            <img src="https://github.com/marwin1991/profile-technology-icons/assets/25181517/afcf1c98-544e-41fb-bf44-edba5e62809a.png" alt="angular" width="80" height="80" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-        </a>
-  <a href="https://vuejs.org" target="_blank" rel="noreferrer">
-            <img src="https://user-images.githubusercontent.com/25181517/117448124-a2da9800-af3e-11eb-85d2-bd1b69b65603.png" alt="angular" width="80" height="80" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-        </a>
-  <a href="#" target="_blank" rel="noreferrer">
-            <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/62091613/261395532-b40892ef-efb8-4b0e-a6b5-d1cfc2f3fc35.png" alt="angular" width="80" height="80" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-        </a>
-</p>
-<p align="center">
-    <a href="#">
-        <img src="https://skillicons.dev/icons?i=alpinejs,aws,azure,babel,bash,bitbucket,bootstrap,cloudflare,css,docker,figma,firebase,git,github,gitlab,gulp,heroku,html,htmx,ai,instagram,js,jquery,kubernetes,less,linkedin,mysql,nextjs,nginx,npm,nuxtjs,php,pinia,postgres,postman,redis,ts,vuetify,webpack,yarn " />
-    </a>
-</p>
+⸻
 
-<br>
-<h3 align='center'>Connect with me:</h3>
-<p align='center' style='margin: 16px 4px 8px;'>
-        <a href="mailto:" target="blank" rel="noreferrer">
-            <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="mailto:" height="50" width="50" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-        </a>
-        <a href="https://linkedin.com" target="blank" rel="noreferrer">
-            <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="https://linkedin.com" height="50" width="50" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-        </a>
-        <a href="https://fb.com" target="blank" rel="noreferrer">
-            <img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="https://fb.com" height="50" width="50" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-        </a>
-        <a href="https://instagram.com" target="blank" rel="noreferrer">
-            <img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="https://instagram.com" height="50" width="50" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-        </a>
-        <a href="https://www.youtube.com" target="blank" rel="noreferrer">
-            <img align="center" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="https://www.youtube.com" height="50" width="50" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-        </a>
-        <a href="https://www.leetcode.com" target="blank" rel="noreferrer">
-            <img align="center" src="https://assets.leetcode.com/static_assets/public/icons/favicon-16x16.png" alt="https://www.leetcode.com" height="50" width="50" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-        </a>
-</p>
+🔥 WHAT I ACTUALLY DO
 
-<p><img src="https://raw.githubusercontent.com/serhii-sv/serhii-sv/main/a1.gif" alt="" /></p>
-<br><br>
-<p align='center'>Feel free to reach out if you have any questions or need further information!</p>
+No fluff. Just real work:
+
+• AI architecture and integrations
+LLM agents, automation, RAG pipelines, data flows, embeddings, semantic search.
+
+• Systems engineering
+API design, backend structure, queues, data ingestion, microservices/monolith hybrids.
+
+• Automation
+Zapier, Make, n8n, Slack workflows — but built like systems, not toys.
+
+• SaaS & product architecture
+From zero to scalable product: database → backend → AI layer → UX → monitoring.
+
+• End-to-end delivery with my senior team
+I architect — my team executes fast and clean.
+
+⸻
+
+📈 WHY PEOPLE HIRE ME
+
+I solve problems, not tasks.
+• $300K+ earned on Upwork
+• 50+ projects delivered
+• Founder of multiple AI products (ProHabit, NewGen Market)
+• I think like a CTO, not like a code-runner
+• I take responsibility for the outcome
+• Clear communication, fast execution, no babysitting needed
+
+If you’re looking for someone to “just code features” — that’s not me.
+If you want someone who can own the system and build AI into it properly — I’m your guy.
+
+⸻
+
+🧠 STACK
+
+AI: OpenAI, Anthropic, embeddings, RAG, vector DBs, agents
+Backend: Laravel, Python, Node.js
+Frontend: Vue, React
+Mobile: Flutter
+Cloud: AWS, GCP
+Automation: Zapier, n8n, Make, Airtable, HubSpot
+Data: ETL, Pinecone, Chroma, Postgres
+
+⸻
+
+🚀 IF YOU NEED:
+• AI agent that actually works
+• RAG pipeline with real accuracy
+• SaaS MVP architecture
+• Systems refactor without bullshit
+• Automation that saves real time, not PowerPoint time
+
+Message me.
+I take ownership. I move fast. I deliver clean systems.
